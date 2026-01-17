@@ -1,6 +1,6 @@
 # Nintendo Parent Control Reset
 
-This app was created using React and Typescript. You can find the live project [here](https://parental.dereffi.com/).
+This app was created using React and Typescript. You can find the live project [here](https://parental.theeffi.de/).
 
 The code behind this app is based on a python script from Hector Martin Cantero. You can find it in the template folder or [here](https://wii.marcan.st/parental).
 
